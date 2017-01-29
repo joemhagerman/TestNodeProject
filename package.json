@@ -1,0 +1,23 @@
+{
+  "name": "testpackage",
+  "version": "1.0.0",
+  "description": "This is my first package",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joemhagerman/TestNodeProject.git"
+  },
+  "author": "Joe Hagerman <joemhagerman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joemhagerman/TestNodeProject/issues"
+  },
+  "homepage": "https://github.com/joemhagerman/TestNodeProject#readme"
+}
